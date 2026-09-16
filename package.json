@@ -1,0 +1,10 @@
+{
+  "name": "xiaoman-ledger",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check src/worker.mjs && node --check dist/sw.js"
+  }
+}
