@@ -1,0 +1,10 @@
+{
+  "name": "小满账本",
+  "short_name": "小满账本",
+  "description": "一款轻巧、私密的个人记账工具",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f2",
+  "theme_color": "#123c34",
+  "lang": "zh-CN"
+}
